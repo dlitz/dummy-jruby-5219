@@ -1,0 +1,17 @@
+/log/*.log
+/tmp/**/*
+/db/*.db
+/db/*.sqlite3
+/db/schema.rb
+/db/*.sql
+/LEGAL
+/VERSION
+/*.war
+.DS_Store
+ccollab.log
+/config/database.yml
+/public/uploads
+/app/**/*.class
+/lib/**/*.class
+/.bundle/config
+/.bundle 
